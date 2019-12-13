@@ -1,0 +1,19 @@
+.currentWeather{
+    border: 1px solid black;
+    width: 100vw;
+    padding: 3px;
+}
+
+.cityButton{
+    width: 16vw;
+}
+
+.queryBox{
+    border: 1px solid black;
+    margin-bottom: 1vh;
+    width: 16vw;
+}
+
+.searchTerms{
+    background-color: gray;
+}
